@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ### [Heat Transfer of a Structural Finn by Conduction and Convection](https://github.com/luso-torres/HeatTransfer)
 - **Description**: This project aimed to evaluate the CVFEM finite element method. Algorithms developed for mesh generation, discretization of partial differential equations and evaluation of heat transfer.
-- **Tools Used**: mkdocs, LaTeX, MATLAB.📡🎛️
+- **Tools Used**: mkdocs, LaTeX, MATLAB.
 
 
 ### [Heat Transfer Through Crossflow on Cylindrical Tubes](https://github.com/luso-torres/HeatConvection)
