@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <!--`## Personal and Academic Projects`-->
-## Signal Processing
+## Signal Processing 📡🎛️
 ### [Image Classifier applying Stochastic Class Discrimination](https://github.com/luso-torres/imageProcessing)
 - **Description**: ML Classifier algorithm for images. Class discrimination utilizes Naïve Bayes, Linear, and Quadratic discriminators.
 - **Tools Used**: Python (scikit-learn, pandas, matplotlib), JupyterLab, Docker.
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - **Tools Used**: Python, Jupyter Notebooks.
 
 ---
-## FEM and Numerical Simulations
+## FEM and Numerical Simulations 📐🖥️
 ### [Numerical Simulation of a Supersonic Diffuser and Nozzle in a Jet Engine](https://github.com/luso-torres/supersonic-flow)
 - **Description**: This project aimed to validate the optimal geometries derived from the analytical calculations of the diffuser and nozzle on their inviscid and viscous behavior.
 - **Tools Used**: ANSYS Fluent, MATLAB, CATIA, ANSYS Workbench, mkdocs, LaTeX.
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ### [Heat Transfer of a Structural Finn by Conduction and Convection](https://github.com/luso-torres/HeatTransfer)
 - **Description**: This project aimed to evaluate the CVFEM finite element method. Algorithms developed for mesh generation, discretization of partial differential equations and evaluation of heat transfer.
-- **Tools Used**: mkdocs, LaTeX, MATLAB.
+- **Tools Used**: mkdocs, LaTeX, MATLAB.📡🎛️
 
 
 ### [Heat Transfer Through Crossflow on Cylindrical Tubes](https://github.com/luso-torres/HeatConvection)
