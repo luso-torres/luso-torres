@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Personal and Academic Projects
+`## Personal and Academic Projects`
 
 ### [Academic - Image Classifier applying Stochastic Class Discrimination](https://github.com/luso-torres/imageProcessing)
 - **Description**: ML Classifier algorithm for images. Class discrimination utilizes Naïve Bayes, Linear, and Quadratic discriminators.
