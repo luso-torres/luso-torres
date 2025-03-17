@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - **Tools Used**: Python (scikit-learn, pandas, matplotlib), JupyterLab, Docker.
 
 ### [Software Defined Radio Applications](https://github.com/luso-torres/GNU_Radio)
-- **Description**:The project aimed to implement most of the known techniques of analog and digital modulations in communications, such as AM, FM, and PM along with PCM.
+- **Description**: The project aimed to implement most of the known techniques of analog and digital modulations in communications, such as AM, FM, and PM along with PCM.
 - **Tools Used**: Python, GNU Radio
 
 
