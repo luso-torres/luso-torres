@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!--`## Personal and Academic Projects`-->
 ## Signal Processing 📡🎛️
 ### [Image Classifier](https://github.com/luso-torres/imageProcessing)
-- **Description**: ML Classifier algorithm for images which achieved 90% across all classifiers. Class discrimination utilized Naïve Bayes, Linear, and Quadratic discriminators.
+- **Description**: ML Classifier algorithm for images which achieved 90% accuracy score across all classifiers. Class discrimination utilized Naïve Bayes, Linear, and Quadratic discriminators.
 - **Tools Used**: Python (scikit-learn, pandas, matplotlib), JupyterLab, Docker.
 
 ### [Software Defined Radio Applications](https://github.com/luso-torres/GNU_Radio)
