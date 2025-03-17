@@ -22,6 +22,13 @@ Here are some ideas to get you started:
 - **Description**: ML Classifier algorithm for images. Class discrimination utilizes Naïve Bayes, Linear, and Quadratic discriminators.
 - **Tools Used**: Python (scikit-learn, pandas, matplotlib), JupyterLab, Docker.
 
+## [Software Defined Radio Applications](https://github.com/luso-torres/GNU_Radio)
+
+### Highlights
+- The project aimed to implement most of the known techniques of analog modulation in communications, such as AM, FM, and PM.
+- **Tools Used**: Python, GNU Radio
+
+
 ### [Spatial and Frequency Filtering on Images](https://github.com/luso-torres/spatial-frequency-filtering)
 - **Description**: The project implements spatial and frequency filtering for feature extraction and image classification using Computer Vision with reduced dimensions.
 - **Tools Used**: Python, Jupyter Notebooks.
