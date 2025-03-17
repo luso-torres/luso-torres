@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 ### [Spatial and Frequency Filtering on Images](https://github.com/luso-torres/spatial-frequency-filtering)
-- **Description**: The project implements spatial and frequency filtering for feature extraction and image classification using Computer Vision with reduced dimensions.
+- **Description**: The project implements spatial and frequency filtering for feature extraction and image classification using Computer Vision with reduced dimensions. The model will be implemented on a pattern recognition algorithm for analysis using Convolutional Neural Networks (CNNs).
 - **Tools Used**: Python, Jupyter Notebooks.
 
 ---
