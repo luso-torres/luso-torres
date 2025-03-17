@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <!--`## Personal and Academic Projects`-->
 ## Signal Processing 📡🎛️
 ### [Image Classifier](https://github.com/luso-torres/imageProcessing)
-- **Description**: ML Classifier algorithm for images which achieved 90% across all classifiers. Class discrimination utilizes Naïve Bayes, Linear, and Quadratic discriminators.
+- **Description**: ML Classifier algorithm for images which achieved 90% across all classifiers. Class discrimination utilized Naïve Bayes, Linear, and Quadratic discriminators.
 - **Tools Used**: Python (scikit-learn, pandas, matplotlib), JupyterLab, Docker.
 
 ### [Software Defined Radio Applications](https://github.com/luso-torres/GNU_Radio)
-- **Description**: The project aimed to implement most of the known techniques of analog and digital modulations in communications, such as AM, FM, and PM along with PCM.
+- **Description**: The project aimed to implement most of the known techniques of analog and digital modulations in communications, such as AM, FM, and PM along with PCM. All techniques achieved great performance and the original signal was completely recovered with slight delay.
 - **Tools Used**: Python, GNU Radio
 
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ---
 ## FEM and Numerical Simulations 📐🖥️
 ### [Numerical Simulation of a Supersonic Diffuser and Nozzle in a Jet Engine](https://github.com/luso-torres/supersonic-flow)
-- **Description**: This project aimed to validate the optimal geometries derived from the analytical calculations of the diffuser and nozzle on their inviscid and viscous behavior.
+- **Description**: This project aimed to validate the optimal geometries derived from the analytical calculations of the diffuser and nozzle on their inviscid and viscous behavior. Both models demonstrated a high equivalence between both approaches, achieving errors of less than 7%.
 - **Tools Used**: ANSYS Fluent, MATLAB, CATIA, ANSYS Workbench, mkdocs, LaTeX.
 
 
