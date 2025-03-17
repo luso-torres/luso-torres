@@ -22,10 +22,8 @@ Here are some ideas to get you started:
 - **Description**: ML Classifier algorithm for images. Class discrimination utilizes Naïve Bayes, Linear, and Quadratic discriminators.
 - **Tools Used**: Python (scikit-learn, pandas, matplotlib), JupyterLab, Docker.
 
-## [Software Defined Radio Applications](https://github.com/luso-torres/GNU_Radio)
-
-### Highlights
-- The project aimed to implement most of the known techniques of analog modulation in communications, such as AM, FM, and PM.
+### [Software Defined Radio Applications](https://github.com/luso-torres/GNU_Radio)
+- **Description**:The project aimed to implement most of the known techniques of analog modulation in communications, such as AM, FM, and PM.
 - **Tools Used**: Python, GNU Radio
 
 
