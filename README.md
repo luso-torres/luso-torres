@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 
 ### [Structural Finn Heat Transfer](https://github.com/luso-torres/HeatTransfer)
-- **Description**: This project aimed to evaluate the CVFEM finite element method. Algorithms developed for mesh generation, discretization of partial differential equations and evaluation of heat transfer.
+- **Description**: This project aimed to evaluate the CVFEM finite element method achieving approximately 98% efficiency compared to the analytical approach. Algorithms developed for mesh generation, discretization of partial differential equations and evaluation of heat transfer.
 - **Tools Used**: mkdocs, LaTeX, MATLAB.
 
 
